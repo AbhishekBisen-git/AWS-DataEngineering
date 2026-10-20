@@ -1,0 +1,8 @@
+data/
+terraform/.terraform/
+
+
+!/main.tf
+!/locals.tf
+
+!/.gitignore
